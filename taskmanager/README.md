@@ -1,4 +1,4 @@
-# taskmanager
+# taskmate
 
 A new Flutter project.
 
